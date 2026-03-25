@@ -1,1 +1,7 @@
 .env
+.files
+.chainlit
+credentials.json
+token.json
+__pycache__/
+service_account.json
